@@ -1,10 +1,10 @@
 # Market Basket Analysis using Apriori & FP-Growth
 
-## 📌 Overview
+## Overview
 
 This project applies market basket analysis on a real-world retail dataset to uncover product associations and build a recommendation system.
 
-## ⚙️ Techniques Used
+## Techniques Used
 
 * Apriori Algorithm
 * FP-Growth Algorithm
@@ -12,7 +12,7 @@ This project applies market basket analysis on a real-world retail dataset to un
 * RFM Customer Segmentation
 * Recommendation System
 
-## 📊 Key Features
+## Key Features
 
 * Identified frequent itemsets from transaction data
 * Compared Apriori vs FP-Growth performance
@@ -20,25 +20,25 @@ This project applies market basket analysis on a real-world retail dataset to un
 * Performed customer segmentation using RFM analysis
 * Evaluated recommendation system using hit-rate
 
-## 📈 Results
+## Results
 
 * Strong product associations discovered (lift up to ~19)
 * Segment-specific buying patterns identified
 * Personalized recommendations generated per customer
 
-## 📂 Dataset
+## Dataset
 
 Online Retail II Dataset (UCI Repository)
 👉 https://archive.ics.uci.edu/ml/datasets/online+retail+ii
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Deploy as interactive web app (Streamlit)
 * Add collaborative filtering
