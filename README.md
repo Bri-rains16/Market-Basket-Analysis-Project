@@ -29,7 +29,7 @@ This project applies market basket analysis on a real-world retail dataset to un
 ## Dataset
 
 Online Retail II Dataset (UCI Repository)
-👉 https://archive.ics.uci.edu/ml/datasets/online+retail+ii
+-> https://archive.ics.uci.edu/ml/datasets/online+retail+ii
 
 ## How to Run
 
